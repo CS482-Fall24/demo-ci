@@ -7,7 +7,7 @@ public class SimpleCalculator {
   }
 
   public int subtraction(int x, int y) {
-    return x - y;
+    return 0;// x - y;
   }
   
   public int multiplication(int x, int y){
